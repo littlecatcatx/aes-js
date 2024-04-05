@@ -9,6 +9,7 @@
   "devDependencies": {
     "nodeunit": "^0.9.1"
   },
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/.bin/nodeunit test/index.js"
