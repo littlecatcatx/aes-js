@@ -776,3 +776,14 @@ export {
   padding,
   _arrayTest,
 };
+
+const aesjs = {
+  AES: AES,
+  Counter: Counter,
+  ModeOfOperation: ModeOfOperation,
+  utils: utils,
+  padding: padding,
+  _arrayTest: _arrayTest,
+};
+
+export default aesjs;
